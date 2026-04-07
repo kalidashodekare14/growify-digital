@@ -4,10 +4,10 @@ import './HeroSection.css';
 const HeroSection = () => {
     return (
         <div className=" bg-center bg-cover ">
-            <div className="2xl:w-350 xl:w-310 lg:w-260 w-full  m-auto flex justify-center items-center h-150">
+            <div className="2xl:w-350 xl:w-310 lg:w-260 w-full  m-auto lg:px-0 px-5 flex lg:flex-row flex-col justify-center items-center lg:h-150">
                 {/* Left: Info */}
-                <div className="lg:w-200 space-y-5">
-                    <h1 className="text-6xl font-bold">Grow Your Business with Growify</h1>
+                <div className="lg:w-200 space-y-5 mt-5">
+                    <h1 className="lg:text-6xl text-4xl font-bold">Grow Your Business with Growify</h1>
                     <p className="text-[#111111bb]">We create stunning websites, optimize your SEO for maximum visibility, and run effective digital campaigns to help your business grow and reach more customers online.</p>
                     <div className="flex lg:flex-row flex-col items-center gap-10">
                         <div>
@@ -27,7 +27,7 @@ const HeroSection = () => {
                     </div>
                 </div>
                 {/* Right: Image */}
-                <div className="lg:w-200">
+                <div className="lg:w-200 lg:flex hidden">
                     <img className="w-150 lg:h-150 h-auto" src="/hero.png" alt="" />
                 </div>
             </div>
