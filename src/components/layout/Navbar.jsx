@@ -7,8 +7,8 @@ import Button from "../shared/Button";
 //---------------Navigation Data-----------------
 const NAV_ITEMS = [
   { id: 1, name: "Home", path: "/" },
+  { id: 5, name: "Services", path: "/services" },
   { id: 3, name: "About Us", path: "/about" },
-  { id: 5, name: "Providers", path: "/providers" },
   { id: 6, name: "Contact", path: "/contact" },
 ];
 
