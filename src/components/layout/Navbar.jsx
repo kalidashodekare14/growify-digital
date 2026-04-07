@@ -40,7 +40,7 @@ const Navbar = () => {
               <Link
                 className={`${pathname == navi.path && "text-pink border-b-2 border-pink"} hover:text-pink font-normal`}
                 key={navi.id}
-                href={navi.path}
+                to={navi.path}
               >
                 <li className="font-rubik">{navi.name}</li>
               </Link>
@@ -52,7 +52,7 @@ const Navbar = () => {
         <div className="flex items-center gap-5">
           <div className="space-x-3">
             {/* Buttons */}
-            <Link href={"/signin"}>
+            <Link to={"/signin"}>
               <Button name={"Login"} isIcon={true} />
             </Link>
           </div>
@@ -76,7 +76,7 @@ const Navbar = () => {
           {NAV_ITEMS.map((item) => (
             <li key={item.id}>
               <Link
-                href={item.path}
+                to={item.path}
                 className={`block hover:text-[#307bc4] 
                   ${pathname == item.path && "text-white border-b-2 border-black"}`}
               >

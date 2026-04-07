@@ -1,8 +1,11 @@
+import VisionAndMision from '../components/about/VisionAndMision';
+import SectionHeader from '../components/shared/SectionHeader/SectionHeader';
 
 const About = () => {
     return (
         <div>
-            <h1>About Page</h1>
+            <SectionHeader title={"About Us"} />
+            <VisionAndMision />
         </div>
     );
 };
