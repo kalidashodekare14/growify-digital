@@ -4,7 +4,7 @@ import './HeroSection.css';
 const HeroSection = () => {
     return (
         <div className=" bg-center bg-cover ">
-            <div className="2xl:w-350 xl:w-310 lg:w-260 w-full  m-auto flex justify-center items-center h-140">
+            <div className="2xl:w-350 xl:w-310 lg:w-260 w-full  m-auto flex justify-center items-center h-150">
                 {/* Left: Info */}
                 <div className="lg:w-200 space-y-5">
                     <h1 className="text-6xl font-bold">Grow Your Business with Growify</h1>
