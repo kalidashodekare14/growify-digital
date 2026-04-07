@@ -1,4 +1,5 @@
 import Benefits from "../components/home/Benefits";
+import CallToAction from "../components/home/CallToAction/CallToAction";
 import HeroSection from "../components/home/HeroSection/HeroSection";
 import OurServices from "../components/home/OurServices";
 import Partners from "../components/home/Partners";
@@ -12,6 +13,7 @@ const Home = () => {
             <Benefits />
             <Partners />
             <SuccessStories />
+            <CallToAction />
         </div>
     );
 };

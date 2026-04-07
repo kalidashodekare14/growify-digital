@@ -14,6 +14,7 @@ const SuccessStories = () => {
     return (
         <div className="2xl:w-350 xl:w-310 lg:w-260 w-full m-auto px-5 lg:px-0 py-10">
             <SectionHeadLine title={"Success Stories"} description={"Real results from real clients."} />
+            {/* Slide to review data */}
             <Swiper
                 slidesPerView={1}
                 spaceBetween={10}
