@@ -1,7 +1,7 @@
 
 const VisionAndMision = () => {
     return (
-        <section className="2xl:w-350 xl:w-310 lg:w-260 w-full  m-auto py-10 px-5">
+        <section className="2xl:w-350 xl:w-310 lg:w-260 w-full m-auto py-10 px-5">
             <div className="flex flex-col lg:flex-row items-center gap-16">
                 {/* Left Side: Benefits Info */}
                 <div className="w-full lg:w-1/2">
