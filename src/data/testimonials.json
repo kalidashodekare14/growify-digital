@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "name": "John Carter",
+        "role": "CEO, NexaTech",
+        "image": "https://randomuser.me/api/portraits/men/1.jpg",
+        "review": "Growify helped us build a modern and scalable website while improving our SEO strategy. Within just a few months, we saw a significant increase in traffic and user engagement. Their team was professional, responsive, and truly understood our business goals.",
+        "rating": 5
+    },
+    {
+        "id": 2,
+        "name": "Sarah Mitchell",
+        "role": "Founder, BrightPath",
+        "image": "https://randomuser.me/api/portraits/women/2.jpg",
+        "review": "Working with Growify was an amazing experience. Their team delivered exactly what we needed and helped us strengthen our online presence. The communication was smooth, and the final result exceeded our expectations.",
+        "rating": 5
+    },
+    {
+        "id": 3,
+        "name": "David Lee",
+        "role": "Marketing Head, GrowLabs",
+        "image": "https://randomuser.me/api/portraits/men/3.jpg",
+        "review": "The advertising campaigns managed by Growify brought us more qualified leads and improved our overall ROI. Their data-driven approach and attention to detail made a big difference in our marketing performance.",
+        "rating": 4
+    },
+    {
+        "id": 4,
+        "name": "Emily Johnson",
+        "role": "Manager, SmartEdge",
+        "image": "https://randomuser.me/api/portraits/women/4.jpg",
+        "review": "Growify delivered our website on time with excellent design and performance. Their team maintained clear communication throughout the project, making the entire process smooth and stress-free.",
+        "rating": 5
+    },
+    {
+        "id": 5,
+        "name": "Michael Brown",
+        "role": "Owner, CodeSphere",
+        "image": "https://randomuser.me/api/portraits/men/5.jpg",
+        "review": "Their SEO and development services helped us grow faster than we expected. We noticed better rankings, more traffic, and improved conversions. Highly recommended for any growing business.",
+        "rating": 5
+    },
+    {
+        "id": 6,
+        "name": "Olivia Davis",
+        "role": "CEO, ElevateX",
+        "image": "https://randomuser.me/api/portraits/women/6.jpg",
+        "review": "Growify provided us with a complete digital solution that improved our brand visibility. Their strategies were effective, and we saw noticeable growth in a short period of time.",
+        "rating": 5
+    },
+    {
+        "id": 7,
+        "name": "Daniel Wilson",
+        "role": "Founder, LaunchPad",
+        "image": "https://randomuser.me/api/portraits/men/7.jpg",
+        "review": "Amazing experience working with Growify. They understood our requirements perfectly and delivered a solution that matched our expectations. Their team is both skilled and reliable.",
+        "rating": 4
+    },
+    {
+        "id": 8,
+        "name": "Sophia Martinez",
+        "role": "Marketing Manager, DigitalCore",
+        "image": "https://randomuser.me/api/portraits/women/8.jpg",
+        "review": "Growify’s professional approach and creative solutions helped us improve our brand visibility. Their team is dedicated and focused on delivering real results.",
+        "rating": 5
+    },
+    {
+        "id": 9,
+        "name": "James Anderson",
+        "role": "Director, FutureWorks",
+        "image": "https://randomuser.me/api/portraits/men/9.jpg",
+        "review": "Their web development and SEO services exceeded our expectations. The team was highly responsive and delivered quality work on time. We are very satisfied with the results.",
+        "rating": 5
+    },
+    {
+        "id": 10,
+        "name": "Emma Thompson",
+        "role": "Owner, VisionTech",
+        "image": "https://randomuser.me/api/portraits/women/10.jpg",
+        "review": "Growify delivered high-quality work with great attention to detail. The project was completed on time, and the results were exactly what we were looking for. Highly recommended.",
+        "rating": 5
+    }
+]

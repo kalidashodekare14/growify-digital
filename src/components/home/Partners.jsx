@@ -6,7 +6,7 @@ const Partners = () => {
             {/* Header line */}
             <SectionHeadLine title={"Parners"} description={"Partnering with brands that trust us."} />
             {/* Partners Logo */}
-            <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-5 mt-10">
+            <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-5 my-20">
                 <div className="border border-[#bbbb] p-3 flex justify-center items-center rounded-2xl">
                     <img className="w-25" src="/partners/amazon.png" alt="" />
                 </div>
