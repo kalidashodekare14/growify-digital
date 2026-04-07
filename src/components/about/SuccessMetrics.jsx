@@ -1,14 +1,14 @@
 import SectionHeadLine from "../shared/SectionHeadLine";
 
-const Achievements = () => {
+const SuccessMetrics = () => {
     return (
-        <section className="2xl:w-350 xl:w-310 lg:w-260 w-full m-auto py-10 px-5">
-            <SectionHeadLine title={"Achievements & Recognition"} description={"Celebrating milestones and success stories."} />
-            {/* Achievements info */}
+        <div className="2xl:w-350 xl:w-310 lg:w-260 w-full m-auto py-10 px-5">
+            <SectionHeadLine title={"Client Statistics"} description={"Proven results that drive real growth"} />
             <div className="grid md:grid-cols-4 gap-6 mt-10">
+
                 <div className="flex flex-col justify-center items-center gap-3 p-6 rounded-xl shadow">
                     <h3 className="text-4xl font-bold text-vivid">
-                        100+
+                        130+
                     </h3>
                     <p className="text-gray-600">
                         Projects Completed
@@ -17,7 +17,7 @@ const Achievements = () => {
 
                 <div className="flex flex-col justify-center items-center gap-3 p-6 rounded-xl shadow">
                     <h3 className="text-4xl font-bold text-vivid">
-                        50+
+                        60+
                     </h3>
                     <p className="text-gray-600">
                         Happy Clients
@@ -26,24 +26,24 @@ const Achievements = () => {
 
                 <div className="flex flex-col justify-center items-center gap-3 p-6 rounded-xl shadow">
                     <h3 className="text-4xl font-bold text-vivid">
-                        5+
+                        350+
                     </h3>
                     <p className="text-gray-600">
-                        Years Experience
+                        Website Traffic Growth
                     </p>
                 </div>
 
                 <div className="flex flex-col justify-center items-center gap-3 p-6 rounded-xl shadow">
                     <h3 className="text-4xl font-bold text-vivid">
-                        10+
+                        250
                     </h3>
                     <p className="text-gray-600">
-                        Industry Awards
+                        ROI Improvement
                     </p>
                 </div>
             </div>
-        </section>
+        </div>
     );
 };
 
-export default Achievements;
+export default SuccessMetrics;
