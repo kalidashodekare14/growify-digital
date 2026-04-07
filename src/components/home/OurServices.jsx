@@ -1,15 +1,17 @@
 import { AiOutlineGlobal } from "react-icons/ai";
 import { MdManageAccounts, MdOutlineScreenSearchDesktop } from "react-icons/md";
 import { PiUserSoundFill } from "react-icons/pi";
+import SectionHeadLine from "../shared/SectionHeadLine";
 
 const OurServices = () => {
     return (
         <div className="2xl:w-350 xl:w-310 lg:w-260 w-full  m-auto px-5 lg:px-0 py-20">
             {/* Header info */}
-            <div className="flex flex-col justify-center items-center gap-2">
+            <SectionHeadLine title={"Services"} description={"We help businesses grow with smart digital solutions."} />
+            {/* <div className="flex flex-col justify-center items-center gap-2">
                 <h1 className="text-[17px] text-vivid">Services</h1>
                 <h2 className="text-3xl lg:w-115 font-semibold text-center">We help businesses grow with smart digital solutions.</h2>
-            </div>
+            </div> */}
             {/* Services Card */}
             <div className="grid grid-cols-1 lg:grid-cols-4 gap-5 mt-10">
                 <div className=" bg-[#f3f2f2] shadow p-5 space-y-3 rounded-2xl">

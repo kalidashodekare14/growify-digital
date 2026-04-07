@@ -3,8 +3,8 @@ import './HeroSection.css';
 
 const HeroSection = () => {
     return (
-        <div className=" bg-center bg-cover ">
-            <div className="2xl:w-350 xl:w-310 lg:w-260 w-full  m-auto lg:px-0 px-5 flex lg:flex-row flex-col justify-center items-center lg:h-150">
+        <div>
+            <div className="2xl:w-350 xl:w-310 lg:w-260 w-full m-auto lg:px-0 px-5 flex lg:flex-row flex-col justify-center items-center lg:h-150">
                 {/* Left: Info */}
                 <div className="lg:w-200 space-y-5 mt-5">
                     <h1 className="lg:text-6xl text-4xl font-bold">Grow Your Business with Growify</h1>
