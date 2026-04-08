@@ -33,7 +33,7 @@ const Navbar = () => {
         {/* ---------- Left: Logo + Desktop Nav ------------ */}
         <div className="flex items-center gap-20">
           {/* Logo */}
-          <h1 className="text-3xl">Fixly</h1>
+          <h1 className="text-3xl">Growify</h1>
 
           {/* Desktop Menu */}
           <ul className="hidden lg:flex items-center gap-5 text-[16px] font-normal">
