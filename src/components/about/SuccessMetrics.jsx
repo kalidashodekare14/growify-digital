@@ -4,6 +4,7 @@ const SuccessMetrics = () => {
     return (
         <div className="2xl:w-350 xl:w-310 lg:w-260 w-full m-auto py-10 px-5">
             <SectionHeadLine title={"Client Statistics"} description={"Proven results that drive real growth"} />
+            {/* Statistics Info */}
             <div className="grid md:grid-cols-4 gap-6 mt-10">
 
                 <div className="flex flex-col justify-center items-center gap-3 p-6 rounded-xl shadow">

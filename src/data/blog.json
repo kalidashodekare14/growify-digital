@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "title": "Top 10 Web Development Trends in 2026",
+        "description": "Discover the latest web development trends that are shaping the digital world and how to stay ahead.",
+        "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085",
+        "link": "/blog/top-10-web-development-trends"
+    },
+    {
+        "id": 2,
+        "title": "SEO Strategies That Actually Work",
+        "description": "Learn proven SEO techniques that can boost your website traffic and improve search rankings.",
+        "image": "https://images.unsplash.com/photo-1552664730-d307ca884978",
+        "link": "/blog/seo-strategies-that-work"
+    },
+    {
+        "id": 3,
+        "title": "How Online Advertising Can Boost Sales",
+        "description": "Explore the most effective online advertising platforms and strategies for maximum ROI.",
+        "image": "https://images.unsplash.com/photo-1533750349088-cd871a92f312",
+        "link": "/blog/online-advertising-boost-sales"
+    },
+    {
+        "id": 4,
+        "title": "Benefits of Booking & Management Systems",
+        "description": "Understand how digital booking and management tools streamline operations and save time.",
+        "image": "https://images.unsplash.com/photo-1521791136064-7986c2920216",
+        "link": "/blog/booking-management-systems-benefits"
+    },
+    {
+        "id": 5,
+        "title": "Digital Marketing Mistakes to Avoid",
+        "description": "Identify common digital marketing mistakes and learn how to fix them for better results.",
+        "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f",
+        "link": "/blog/digital-marketing-mistakes"
+    },
+    {
+        "id": 6,
+        "title": "Grow Your Business with Social Media",
+        "description": "Tips and strategies to leverage social media for growth and customer engagement.",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
+        "link": "/blog/grow-business-social-media"
+    }
+]
