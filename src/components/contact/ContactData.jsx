@@ -4,7 +4,7 @@ import Button from "../shared/Button"
 const ContactData = () => {
     return (
         <section className="py-16 bg-gray-50">
-            <div className="max-w-6xl mx-auto px-4 grid md:grid-cols-2 gap-10">
+            <div className="2xl:w-350 xl:w-310 lg:w-260 w-full m-auto py-10 px-5 mx-auto grid md:grid-cols-2 gap-10">
 
                 {/* Left Side: Contact Info */}
                 <div>
