@@ -5,7 +5,7 @@ import './CallToAction.css';
 
 const CallToAction = () => {
     return (
-        <div className="bg bg-cover bg-center bg-no-repeat">
+        <div className="bg bg-cover bg-center bg-no-repeat my-20">
             <div className="2xl:w-350 xl:w-310 lg:w-260 w-full m-auto px-5 lg:px-0 py-20 flex justify-center items-center gap-10 h-120">
                 <div className="w-150 space-y-3">
                     <p className="text-white">Why Choose Us</p>
