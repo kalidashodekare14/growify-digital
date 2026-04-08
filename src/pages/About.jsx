@@ -3,7 +3,7 @@ import SuccessMetrics from '../components/about/SuccessMetrics';
 import TeamOverview from '../components/about/TeamOverview';
 import VisionAndMision from '../components/about/VisionAndMision';
 import Testimonials from '../components/home/SuccessStories';
-import SectionHeader from '../components/shared/SectionHeader/SectionHeader';
+import SectionHeader from "../components/shared/SectionHeader/SectionHeader";
 
 const About = () => {
     return (
