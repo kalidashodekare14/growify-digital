@@ -59,6 +59,6 @@ A modern and responsive digital agency website built with React, Vite, and Tailw
 
 ```bash
 git clone https://github.com/kalidashodekare14/growify-digital.git
-cd growify
+cd growify-digital
 npm install
 npm run dev
